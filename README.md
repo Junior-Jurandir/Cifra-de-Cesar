@@ -12,5 +12,5 @@
     2 - A chave a ser utilizada nesse processo.
     3 - A forma com que o usuário irá inserir a mensagem.
     4 - A mensagem em si.
-  Após a execusão do código o usuário receberá uma mensagem e um arquivo ".txt" com o resultaado.
+  Após a execusão do código o usuário receberá uma mensagem e um arquivo ".txt" com o resultado.
 </p>
